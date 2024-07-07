@@ -1,6 +1,14 @@
 # ToDo-react
 
-# This is a React project :
-1.Initialise react 
-2.install node modules 
-3.npm start
+### To Start the website:
+
+<ol>
+  <li>
+  Initialise react 
+
+
+
+</li>
+<li>Install node modules </li>
+<li>npm start</li>
+</ol>
