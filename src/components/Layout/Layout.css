@@ -1,0 +1,45 @@
+.route{
+    height:500px;
+    width:400px;
+    background-color: #1B1B1B;
+    border-radius: 20px;
+}
+
+.layout{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.title{
+    padding-bottom: 40px;
+}
+
+.hh{
+    display: flex;
+    justify-content: space-around;
+}
+
+.route{
+    display: flex;
+    justify-content: center;
+    -webkit-box-shadow: 7px 3px 39px -5px rgb(206, 197, 206);
+    -moz-box-shadow: 7px 3px 39px -5px rgb(135, 133, 135);
+    box-shadow: 7px 3px 39px -5px rgba(250,247,250,1);
+}
+
+*{
+  color:white;
+}
+
+.routeButton{
+    color: black;
+}
+
+:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }

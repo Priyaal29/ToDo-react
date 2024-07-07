@@ -1,0 +1,19 @@
+.list{
+    list-style:circle;
+
+}
+
+.listItems{
+    font-size: 28px;
+}
+
+.deleteButton{
+   padding-left: 15px;
+   
+}
+
+.listBox{
+ 
+ margin-top: 15px;
+ 
+}
